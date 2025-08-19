@@ -1,6 +1,6 @@
 {
-  "name": "Dia",
-  "short_name": "Dia",
+  "name": "games",
+  "short_name": "games",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
